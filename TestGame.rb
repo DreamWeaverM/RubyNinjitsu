@@ -33,3 +33,4 @@ elsif a2 == "Yes"
 a4 = gets.chomp.capitalize!
 
 end
+#Not Finished
